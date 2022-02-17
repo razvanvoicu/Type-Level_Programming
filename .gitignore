@@ -1,0 +1,5 @@
+# Project exclude paths
+/lesson1/task1/project/target/
+/lesson1/task1/target/
+/project/target/
+/target/
